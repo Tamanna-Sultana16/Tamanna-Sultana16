@@ -40,12 +40,8 @@
 
 ### ICPC & Programming Contest History
 
-- **ICPC Dhaka Regionalist 2025** - Participated in the prestigious ICPC Asia Dhaka Regional Contest
-- **Inter University Robo Expo 3.0** - 1st Runner Up
-- **AUST IUPC 2025** - Participated in AUST Inter University Programming Contest
-- **MU IUPC 2025** - Participated in Metropolitan University Inter University Programming Contest
+- **Inter University Robo Expo 3.0** 
 - **BUBT Collaborative Contest 2025** - Participated in BUBT National Collegiate Programming Contest
-- **CUET IUPC 2025** - Participated in CUET Inter University Programming Contest
 - **Impact Dhaka 2026** - AI for Urban Transformation Hackathon at BUET
 
 
