@@ -86,7 +86,7 @@ https://github.com/Tamanna-Sultana16/Brain-Tumor-Detection-Custom-2D-CNN
 
 ---
 
-🌟 **Project 1 - Event Management System**  
+🌟 **Project 2 - Event Management System**  
 https://github.com/Tamanna-Sultana16/Event-Management-system
 
 - Django 
@@ -96,7 +96,7 @@ https://github.com/Tamanna-Sultana16/Event-Management-system
 
 ---
 
-🌟 **Project 2 - Impact-Dhaka-Hackathon-Buet**  
+🌟 **Project 3 - Impact-Dhaka-Hackathon-Buet**  
 https://github.com/Tamanna-Sultana16/Impact-Dhaka-Hackathon-Buet
 
 - MySQL
@@ -107,7 +107,7 @@ https://github.com/Tamanna-Sultana16/Impact-Dhaka-Hackathon-Buet
 - JavaScript
 ---
 
-🌟 **Project 3 - Machine learning project**  
+🌟 **Project 4 - Machine learning project**  
 https://github.com/Tamanna-Sultana16/Machine-learning-project
 
 A flexible online learning platform with:
