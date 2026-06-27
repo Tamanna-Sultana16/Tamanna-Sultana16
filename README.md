@@ -48,13 +48,7 @@
 - **CUET IUPC 2025** - Participated in CUET Inter University Programming Contest
 - **Impact Dhaka 2026** - AI for Urban Transformation Hackathon at BUET
 
-### Codeforces Performance
 
-<p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Knight_Fury_&theme=dark" alt="Codeforces Stats"/>
-</p>
-
----
 
 ## 🕹️ Game Developer
 
@@ -84,45 +78,51 @@
 ---
 
 ## ✨ Projects
+🌟 **Project 1 - Brain Tumor Detection Custom 2D CNN**  
+https://github.com/Tamanna-Sultana16/Brain-Tumor-Detection-Custom-2D-CNN
 
-🌟 **Project 1 - Property Management System**  
-https://github.com/Sakib-Hossaine/CSE-202-JAVA-LAB/tree/main/PropertyJavaFX/src
-
-- Java
-- JavaFX
-- Scene Builder
+- python
+- jupyterNotebook
+- Machine learning
+- Architecture design
+- Html,css
+- Bootstrap
+- JavaScript
 
 ---
 
-🌟 **Project 2 - Bank Management System**  
-https://github.com/Sakib-Hossaine/CSE-212--Database-management-Lab/tree/main/Database%20Project
+🌟 **Project 1 - Event Management System**  
+https://github.com/Tamanna-Sultana16/Event-Management-system
+
+- Django 
+- Html,css
+- Bootstrap
+- JavaScript
+
+---
+
+🌟 **Project 2 - Impact-Dhaka-Hackathon-Buet**  
+https://github.com/Tamanna-Sultana16/Impact-Dhaka-Hackathon-Buet
 
 - MySQL
 - Database Management
-
+- Django 
+- Html,css
+- Bootstrap
+- JavaScript
 ---
 
-🌟 **Project 3 - Online Educational System**  
-https://github.com/Sakib-Hossaine/DJANGO-Project
+🌟 **Project 3 - Machine learning project**  
+https://github.com/Tamanna-Sultana16/Machine-learning-project
 
 A flexible online learning platform with:
-- Live Classes
-- Courses
-- Quizzes
-- Certificates
-- Responsive Design
+- python
+- jupyterNotebook
+- Machine learning
+- Architecture design
 
 ---
 
-🌟 **Project 4 - Simple Game Development**
-
-https://github.com/Sakib-Hossaine/InProgress
-
-- Unity
-- C#
-- Game Development
-
----
 
 ## 🌍 Connect With Me
 
